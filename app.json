@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello-world-app",
-    "slug": "hello-world-app",
+    "name": "Profile",
+    "slug": "Profile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
